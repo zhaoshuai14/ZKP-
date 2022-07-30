@@ -43,3 +43,9 @@ ZKP（非交互式）零知识证明
 ![image](https://user-images.githubusercontent.com/105495105/181897986-564a8310-908f-4410-bc1d-dffcc3698f7d.png)
 
 
+
+
+3.代码运行截图
+（ElGamal加密）
+![image](https://user-images.githubusercontent.com/105495105/181899239-0fccaed5-085e-4eeb-9179-eba079d8b22f.png)
+
